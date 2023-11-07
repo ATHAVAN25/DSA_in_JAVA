@@ -21,14 +21,14 @@ public class BinarySearch {
         int position = binarySearch(array, target);
         if(position == -1)
         {
-            System.out.print("Target value" + target + " not found");
+            System.out.print("Target value " + target + " not found");
         }
         else
         {
             System.out.print("Target value " + target + " found at position " + position);
         }
-        
     }
+    
     static int binarySearch(int[] array, int target){
         int start = 0, end = array.length - 1;
         while(start <= end)
