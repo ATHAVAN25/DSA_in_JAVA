@@ -36,4 +36,3 @@ public class linearsearch {
         return false;
     }
 }
-//                   <----end---->
