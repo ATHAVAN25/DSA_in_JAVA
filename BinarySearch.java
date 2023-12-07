@@ -25,7 +25,7 @@ public class BinarySearch {
         }
         else
         {
-            System.out.print("Target value " + target + " found at position " + position);
+            System.out.print("Target value " + target + " found at position " + position +1);
         }
     }
     

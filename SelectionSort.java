@@ -1,5 +1,5 @@
 import java.util.*;
-public class BobbleSort {
+public class SelectionSort {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
