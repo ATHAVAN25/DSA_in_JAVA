@@ -13,7 +13,7 @@ public class BinarySearch {
             array[i] = input.nextInt();
         }
         // get target value from user
-        System.out.println("Enter target value : ");
+        System.out.println("Enter target value  : ");
         int target = input.nextInt();
         // now sort the array
         Arrays.sort(array);
@@ -48,5 +48,6 @@ public class BinarySearch {
             }
         }
         return -1;
+        
     }
 }
